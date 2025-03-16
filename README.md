@@ -2,9 +2,9 @@
 
 Aqui eu reúno meus ensaios de código – como uma bruxa cercada pelas lembrancinhas que trouxe consigo de suas várias aventuras.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceleLouiseSAra&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleLouiseSAra&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceleLouiseSAra&show_icons=true&theme=dracula)
 
 Experiência com desenvolvimento web (back-end) e ciência de dados.
 
