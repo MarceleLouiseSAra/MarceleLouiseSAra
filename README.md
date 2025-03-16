@@ -1,4 +1,4 @@
-# Olá, você!, esta é a minha página no GitHub!
+# Olá, você!, esta é a minha página do GitHub!
 
 Aqui eu reúno meus ensaios de código – como uma bruxa cercada pelas lembrancinhas que trouxe consigo de suas várias aventuras.
 
