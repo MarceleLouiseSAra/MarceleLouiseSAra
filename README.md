@@ -17,4 +17,4 @@ Experiência com desenvolvimento web (back-end) e ciência de dados.
 ## Perks:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,prisma,postman,jest,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,prisma,postman,jest)](https://skillicons.dev)
