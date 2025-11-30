@@ -2,7 +2,7 @@
 
 Aqui eu reúno meus ensaios de código – como uma bruxa cercada pelas lembrancinhas que trouxe consigo de suas várias aventuras.
 
-Experiência com desenvolvimento web (back-end), ciência de dados e Machine Learning.
+Experiência com desenvolvimento web Back-end, ciência de dados e Machine Learning.
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:louise20marcele03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/marcele-louise-silva-araponga-702a2731b/)
